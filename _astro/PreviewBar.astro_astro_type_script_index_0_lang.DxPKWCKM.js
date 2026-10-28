@@ -1,0 +1,1 @@
+import{n as e,t}from"./view.CflOsesJ.js";var n=document.querySelectorAll(`[data-view-btn]`);function r(){n.forEach(e=>e.setAttribute(`aria-pressed`,String(e.dataset.viewBtn===t())))}n.forEach(t=>t.addEventListener(`click`,()=>e(t.dataset.viewBtn===`partner`?`partner`:`public`))),document.addEventListener(`rb:preview-change`,r),r();

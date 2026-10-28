@@ -1,0 +1,1 @@
+var e=document.documentElement,t=`rb-preview`;function n(){return e.dataset.view===`partner`?`partner`:`public`}function r(n){e.dataset.view=n;try{sessionStorage.setItem(t,JSON.stringify({view:n}))}catch{}document.dispatchEvent(new CustomEvent(`rb:preview-change`))}export{r as n,n as t};
