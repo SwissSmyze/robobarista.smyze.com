@@ -1,1 +1,0 @@
-import"./accordion.DOjut0e5.js";function e(){let e=location.hash&&document.getElementById(location.hash.slice(1));e instanceof HTMLDetailsElement&&(e.open=!0)}window.addEventListener(`hashchange`,e),e();
