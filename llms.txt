@@ -27,7 +27,7 @@ About 60 to 80 drinks a day is the minimum viable volume for a Robobarista site.
 
 ### What does a site need?
 
-3,836 × 3,611 mm of floor space including service access, and a ceiling above 2,207 mm. Power: 400 V three-phase at 16 A in the EU, or 240 V split-phase at 40 A in the US. A 1/2″ mains water connection at about 3 bar, a drain, and cellular signal. SMYZE supplies the SIM.
+3,836 × 3,611 mm of floor space including service access, and a ceiling above 2,207 mm. Power: 400 V three-phase at 16 A in the EU, or 240 V split-phase at 40 A in the US. A 1/2″ mains water connection at about 3 bar, a drain, LAN or cellular signal. If cellular, SIM supplied by SMYZE.
 
 ### How fast can we go live?
 
