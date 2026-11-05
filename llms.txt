@@ -1,0 +1,78 @@
+# SMYZE Robobarista V3
+
+> SMYZE Robobarista V3 is a Swiss-engineered robotic drinks bar. 40+ drinks on a 3.9 m² body, serves 24/7, no barista needed. Three ways to partner: revenue share, revenue share with buy-in, or leasing.
+
+The Swiss Robobarista. 40+ drinks. 3.9 m². Serves 24/7, sleeps when you close. No barista needed. Fresh drinks revenue at every hour, without hiring.
+
+## Sections
+
+- [Drinks](https://robobarista.smyze.com/#drinks)
+- [How it works](https://robobarista.smyze.com/#how)
+- [V3](https://robobarista.smyze.com/#v3)
+- [System and data](https://robobarista.smyze.com/#system)
+- [Site and specs](https://robobarista.smyze.com/#site)
+- [Partnership](https://robobarista.smyze.com/#models)
+- [FAQ](https://robobarista.smyze.com/#faq)
+- [Become a partner](https://robobarista.smyze.com/#contact): Site type, city and expected footfall are enough to start. Daniel Adamec, CEO, sales[at]smyze.ch; Vladimir Srezoski, Head of Commercial, sales[at]smyze.ch
+
+## FAQ
+
+### Which business models do you offer?
+
+Three models. Revenue share, with no upfront investment. Revenue share with buy-in, for established locations that want a larger share. Leasing, a fixed monthly cost plus a small fee per drink, for sites that offer drinks free of charge. In every model SMYZE supplies the Robobarista, all ingredients, support, monitoring and maintenance. Exact terms are shared with partners.
+
+### What daily volume does a site need?
+
+About 60 to 80 drinks a day is the minimum viable volume for a Robobarista site.
+
+### What does a site need?
+
+3,836 × 3,611 mm of floor space including service access, and a ceiling above 2,207 mm. Power: 400 V three-phase at 16 A in the EU, or 240 V split-phase at 40 A in the US. A 1/2″ mains water connection at about 3 bar, a drain, and cellular signal. SMYZE supplies the SIM.
+
+### How fast can we go live?
+
+A Robobarista is live 4 to 6 weeks after signature.
+
+### How long does installation take?
+
+The unit arrives in two halves and is assembled on site. Installation takes about 4 hours on site (target). You are live 4 to 6 weeks after signature.
+
+### Who refills and cleans it?
+
+One trained person. The daily clean and refilling takes 30 minutes, guided step by step by the Cleaning App. Weekly, monthly and three-monthly cycles come on top. Training takes two hours.
+
+### What happens if it breaks?
+
+Every unit is monitored remotely by the SMYZE team, and any irregularity is flagged immediately to the SMYZE Remote Support Team. Errors also show up in the Barkeeper app as tickets, and SMYZE supplies the spare parts.
+
+### Can it go outdoors?
+
+Yes. One variant covers indoor and outdoor sites. Operating range: −10 °C to +40 °C. Outdoor installs include a roof.
+
+### Can we put our own coffee in it?
+
+Yes. We are flexible on the choice of coffee beans, in line with our quality standards.
+
+### Can we set our own prices?
+
+Prices are agreed together and set according to market pricing, local competition and other factors that affect sales. SMYZE controls the entire software, so prices can be adjusted easily at any point.
+
+### Can we co-brand it?
+
+Yes. Co-branding is possible, in line with our templates and standards.
+
+### Who owns the sales data, and can we access it?
+
+Partners get dashboard access, reports and exports.
+
+### Is it available in the US?
+
+Yes. V3 comes in EU and US versions on one platform, with native power for each market and no converters. Robobaristas are already live in Europe and the US.
+
+### Does it take cash?
+
+No. The Robobarista is cashless. An Adyen terminal takes Visa, Mastercard, Maestro, Amex, Diners, Discover, JCB and V PAY.
+
+### What happens if it loses connection?
+
+Connection drops don't stop the bar. Orders in progress finish, and data syncs when the signal is back. New card payments need a signal.

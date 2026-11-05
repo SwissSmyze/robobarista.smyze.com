@@ -1,3 +1,40 @@
-# Internal preview build. Not for indexing.
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /partner/
+
+# AI crawlers and assistant fetchers, allowed explicitly. Keep "Allow: /" in each group.
+User-agent: GPTBot
+Allow: /
+Disallow: /partner/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /partner/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /partner/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /partner/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /partner/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /partner/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /partner/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /partner/
+
+Sitemap: https://robobarista.smyze.com/sitemap.xml
+
+# LLM-readable summary of the page: https://robobarista.smyze.com/llms.txt
